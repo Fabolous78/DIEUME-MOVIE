@@ -1,0 +1,6 @@
+{
+  "name": "DIEUME-MOVIE",
+  "description": "Plateforme e-commerce DIEUME-MOVIE pour commander des films et séries à Bukavu/Bagira avec commande directe WhatsApp/SMS au +243972252806 et gestion admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

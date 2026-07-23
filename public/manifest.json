@@ -1,0 +1,22 @@
+{
+  "short_name": "CineFab",
+  "name": "CineFab - Bukavu/Bagira",
+  "icons": [
+    {
+      "src": "pwa-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "pwa-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#080a11",
+  "theme_color": "#dc2626",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Vente et commande de films & séries CineFab à Bukavu/Bagira"
+}
